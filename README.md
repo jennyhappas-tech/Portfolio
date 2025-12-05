@@ -4,6 +4,8 @@ Jenny.Happas@gmail.com| 917-993-1824 | Springfield, PA | linkedin.com/in/jen
 Portfolio Summary | AI Program & Transformation Leader
 Strategic Leadership & Governance
  Directed enterprise transformation and governance across Finance, Operations, and IT at Saint-Gobain North America, overseeing a 180+ person Finance & Accounting CoE outsourced through a BPO partnership. Established enterprise PMO frameworks and value management models to standardize intake, prioritization, and performance tracking across 25+ global initiatives annually.
+ **Core Competencies**
+ AI/ML Strategy & Governance | Enterprise PMO & Portfolio Management | CoE & VMO Leadership | Global Delivery Operations | Lean Six Sigma | Process Optimization | Change Management | Finance Transformation | Strategic Roadmaps | Cross Funactional Stakeholder Engagement | Power BI | Jira | Monday.com | Power App & Automate | Automation Anywhere, UiPath | Service Now | Azure  | Blackline |Medius | SAP |S4Hana | QAD | Coupa | PSAT
 **AI & Innovation Program Management**
  At Maple Street Advisory, led an end-to-end AI strategy discovery initiative for a multinational enterprise. Led the full lifecycle of the AI Cases transformation initiative in partnership with the CIO, CDO, and Regional CFOs. Oversaw all phases from initial interviews and AI case identification (45 total) to project planning, ultimately validating 16 high-value opportunities with a projected $6M–16M in annual cost optimization (ROI). Delivered all final documentation, including AI governance frameworks, AI/ML tools/methodology selection, intro to Agentic AI, project charters, implementation roadmaps. The contract resulted in full CFO and COO executive sponsorship for scaled deployment.
 **Saint-Gobain North America — CoE, PMO & Continuous Improvement Leadership**
@@ -16,9 +18,7 @@ Delivered measurable cost and efficiency gains through governance, AI, and autom
 Standardized governance and reporting processes adopted across multiple regions.
 Integrated Power BI dashboards and KPIs for enterprise visibility and value realization.
 Introduced AI-enabled SOP/DTP tools to centralize documentation and knowledge management.
-**Core Competencies**
- AI/ML Strategy & Governance | Enterprise PMO & Portfolio Management | CoE & VMO Leadership | Global Delivery Operations | Lean Six Sigma | Process Optimization | Change Management | Finance Transformation | Strategic Roadmaps | Cross Funactional Stakeholder Engagement | Power BI | Jira | Monday.com | Power App & Automate | Automation Anywhere, UiPath | Service Now | Azure 
-Transformation & Operations Portfolio – Saint-Gobain
+Transformation & Operations Portfolio –  
 **Program & Portfolio Management (PMO)**
 Led a cross-functional portfolio of transformation, automation, data, IT, and compliance initiatives across PTP, RTR, CA, HR, and Shared Services.
 Managed annual governance routines, reporting streamlining, and project prioritization.
@@ -31,7 +31,7 @@ Drove meeting and reporting simplification initiative, reducing time spent on re
 **COE RTR**: Established standardized accounting reconciliation processes.
 **Monthly Close Optimization:** Reduced overtime and cycle time through redesigned workflow and accountability structures.
 **SIF Reporting:** Implemented approval workflow and governance.
-
+**Technology Program Ownership & Automation**  -Served as business and project owner for PSAT, Azure infrastructure, and RPA bot portfolio, managing system updates, license renewals, and continuous optimization. Oversaw automation lifecycle from design through deployment, ensuring alignment with business objectives and operational requirements.
 **Automation & RPA Delivery Process Improvement Projects**
 AUTOMATION & RPA DELIVERY RPA (Automation Anywhere) Implementations
 **Accounts Payable (AP)** : SAP S/4HANA invoice approval flow | AP invoice statements automation | QAD invoice payment workflow | 
