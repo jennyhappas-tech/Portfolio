@@ -32,7 +32,7 @@ COE RTR: Established standardized accounting reconciliation processes.
 Monthly Close Optimization: Reduced overtime and cycle time through redesigned workflow and accountability structures.
 SIF Reporting: Implemented approval workflow and governance.
 
-Automation & RPA Delivery
+Automation & RPA Delivery Process Improvement Projects
 AUTOMATION & RPA DELIVERY
 Accounts Payable (AP):
 SAP S/4HANA invoice approval flow
