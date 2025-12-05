@@ -241,7 +241,8 @@ Leadership Contributions
 🎁 Grants & Community Outreach leadership
 
 **Special Projects** Grant Thornton Alteryx automation project support (Tax division)
-**Community Outreach **- Malvern HQ Philanthropy and community outreach governance Member
+
+**Community Outreach**- Malvern HQ Philanthropy and community outreach governance Member
 
 
 📞 Contact
