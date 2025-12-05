@@ -235,15 +235,13 @@ SharePoint migration to North America IT environment
 🌟 Strategic & Special Initiatives
 Leadership Contributions
 
-📋 Annual survey program and reporting
+📋 Annual Shared Services survey program and reporting
 🤖 AI Committee member
 👥 Women's Committee contributor
 🎁 Grants & Community Outreach leadership
 
-Special Projects
-
-Grant Thornton Alteryx automation project support (Tax division)
-Philanthropy and community outreach governance
+**Special Projects** Grant Thornton Alteryx automation project support (Tax division)
+**Community Outreach **- Malvern HQ Philanthropy and community outreach governance Member
 
 
 📞 Contact
