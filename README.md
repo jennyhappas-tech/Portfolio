@@ -1,60 +1,256 @@
 Jenny Happas, MBA, CLSSBB
-Jenny.Happas@gmail.com| 917-993-1824 | Springfield, PA | linkedin.com/in/jennyhappas
+AI Program & Transformation Leader
+📧 Jenny.Happas@gmail.com | 📱 917-993-1824 | 📍 Springfield, PA | LinkedIn
 
-Portfolio Summary | AI Program & Transformation Leader
-Strategic Leadership & Governance
- Directed enterprise transformation and governance across Finance, Operations, and IT at Saint-Gobain North America, overseeing a 180+ person Finance & Accounting CoE outsourced through a BPO partnership. Established enterprise PMO frameworks and value management models to standardize intake, prioritization, and performance tracking across 25+ global initiatives annually.
- **Core Competencies**
- AI/ML Strategy & Governance | Enterprise PMO & Portfolio Management | CoE & VMO Leadership | Global Delivery Operations | Lean Six Sigma | Process Optimization | Change Management | Finance Transformation | Strategic Roadmaps | Cross Funactional Stakeholder Engagement | Power BI | Jira | Monday.com | Power App & Automate | Automation Anywhere, UiPath | Service Now | Azure  | Blackline |Medius | SAP |S4Hana | QAD | Coupa | PSAT
-**AI & Innovation Program Management**
- At Maple Street Advisory, led an end-to-end AI strategy discovery initiative for a multinational enterprise. Led the full lifecycle of the AI Cases transformation initiative in partnership with the CIO, CDO, and Regional CFOs. Oversaw all phases from initial interviews and AI case identification (45 total) to project planning, ultimately validating 16 high-value opportunities with a projected $6M–16M in annual cost optimization (ROI). Delivered all final documentation, including AI governance frameworks, AI/ML tools/methodology selection, intro to Agentic AI, project charters, implementation roadmaps. The contract resulted in full CFO and COO executive sponsorship for scaled deployment.
-**Saint-Gobain North America — CoE, PMO & Continuous Improvement Leadership**
-Global Delivery & Stakeholder Alignment -  Served as the lead for a $15M+ outsourced F&A program (180+ resources), championing the BPO relationship and ensuring continuous improvement across performance, service, and contractual obligations. Responsible for enterprise portfolio governance project delivery in collaboration with the BPO and technology vendors. Directed executive steering committees (including the COO, CFO, and VP of Shared Services) to align on strategic priorities, mitigate risk, and secure resources. SG AI Committee member and IFRS AI chatbot pilot case implementation.
-Transformation & Change Enablement - Spearheaded a $5M+ transformation portfolio as the Project Champion and focal Point of Contact for all automation initiatives. Utilized RPA, Power Automate, AI & Six Sigma methodologies to implement large-scale process streamlining and automation, resulting in:
-30%+ operational efficiency gains- 25% reduction in project cycle time - Millions in cost savings
-Simultaneously built and launched a Continuous Improvement (CI) Office, employing Lean Six Sigma and Balanced Scorecard frameworks. Developed and deployed PMBOK and Agile-aligned templates, SOPs, intake models to accelerate delivery, enhance transparency, establish accountability across all projects. 
-**Results & Impact**
-Delivered measurable cost and efficiency gains through governance, AI, and automation initiatives.
-Standardized governance and reporting processes adopted across multiple regions.
-Integrated Power BI dashboards and KPIs for enterprise visibility and value realization.
-Introduced AI-enabled SOP/DTP tools to centralize documentation and knowledge management.
-Transformation & Operations Portfolio –  
-**Program & Portfolio Management (PMO)**
-Led a cross-functional portfolio of transformation, automation, data, IT, and compliance initiatives across PTP, RTR, CA, HR, and Shared Services.
-Managed annual governance routines, reporting streamlining, and project prioritization.
-Oversaw relocation of the outsourced program team to the Accounting & Finance office and coordinated annual travel to India for vendor governance and capability alignment.
-Drove meeting and reporting simplification initiative, reducing time spent on recurring reviews.
-**Process Improvement, Risk & Governance**
-**Business Continuity Process (BCP):** Revalidated, updated, formalized a full BCP for Shared Services.
-**Onboarding & Training:** Standardized onboarding and training with HR (Accenture partnership), including full documentation governance.
-**Policy & Controls:** Recommended and supported reconciliation and journal entry policy new initiative (in scope timing, thresholds, de minimis).
-**COE RTR**: Established standardized accounting reconciliation processes.
-**Monthly Close Optimization:** Reduced overtime and cycle time through redesigned workflow and accountability structures.
-**SIF Reporting:** Implemented approval workflow and governance.
-**Technology Program Ownership & Automation**  -Served as business and project owner for PSAT, Azure infrastructure, and RPA bot portfolio, managing system updates, license renewals, and continuous optimization. Oversaw automation lifecycle from design through deployment, ensuring alignment with business objectives and operational requirements.
-**Automation & RPA Delivery Process Improvement Projects**
-AUTOMATION & RPA DELIVERY RPA (Automation Anywhere) Implementations
-**Accounts Payable (AP)** : SAP S/4HANA invoice approval flow | AP invoice statements automation | QAD invoice payment workflow | 
-**Cash Applications (CA)** : Wire/Check/EFT payment archiving RPA | SAP payment remittance automation |Treasury daily report archiving
-**Record-to-Report (RTR)** : Cash, bank statement, and GL reconciliations automation | Weekly payroll JE automation (SAP & QAD)
-Fixed Assets workflow automation | Reason codes & action plan in Blackline 
-**Cross-Functional:**
-Treasury Workstation TWS → Snowflake data ingestion | Balanced scorecard automation |Daily KPI & metrics automation
-**AI, SharePoint/Power Automate POWER APP & WORKFLOW SOLUTIONS**
-User Access Provisioning Power App Workflow| Recognition Program Power App | IPM- Incident Problem Mgmt Error Classification Power App
-AKMS AI workflow tool (SOP mgmt) onboarding | AI Bot translation enablement | Medius non-conforming invoice rejection automation.
-**DATA, ANALYTICS & REPORTING**
-Power BI dashboards: Payroll, PTP, CA, RTR, T&E, Payroll, Turnover, KPIs. 
-Sponsored Celonis process mining training for North America | Built SAP/QAD Snowflake Data Catalogue |Blackline → Snowflake data ingestion.
-Footprints (AskAP) dashboard + feedback classification | Medius data ingestion & reason codes | ATCAT reporting; vendor cleanup project.
-**IT INFRASTRUCTURE & CYBERSECURITY**
-Azure migration and SAP system update support | Delivery of WiFi provider transition + added firewall layer for enhanced security.
-Implemented SSTP (replacing VPN): fully encrypted SSL/TLS, port 443, seamless always-on access.
-VDI pilot for India program (with US & France cybersecurity teams)| Sharepoint migration to North America IT environment.
-**STRATEGIC & SPECIAL INITIATIVES**
-Annual survey program and reporting.
-Contributor: AI Committee, Women’s Committee, Grants & Community Outreach.
-Supported Grant Thornton Alteryx automation project for Tax division.
-Philanthropy and community outreach governance.
+🎯 Portfolio Summary
+Strategic leader specializing in enterprise transformation and governance across Finance, Operations, and IT. Proven track record directing large-scale programs at Saint-Gobain North America, overseeing a 180+ person Finance & Accounting CoE through BPO partnerships. Established enterprise PMO frameworks and value management models standardizing intake, prioritization, and performance tracking across 25+ global initiatives annually.
 
+💡 Core Competencies
+Strategic Leadership
+
+AI/ML Strategy & Governance
+Enterprise PMO & Portfolio Management
+CoE & VMO Leadership
+Global Delivery Operations
+
+Process Excellence
+
+Lean Six Sigma (CLSSBB)
+Process Optimization
+Change Management
+Finance Transformation
+
+Technology & Tools
+
+Analytics & Reporting: Power BI, Jira, Monday.com
+Automation: Power Automate, Automation Anywhere, UiPath
+ERP & Finance Systems: SAP S/4HANA, QAD, BlackLine, Medius, Coupa
+Infrastructure: Azure, ServiceNow, PSAT
+
+
+🚀 Featured Projects
+AI Strategy & Innovation | Maple Street Advisory
+End-to-End AI Transformation Initiative for Multinational Enterprise
+Led full lifecycle AI strategy discovery in partnership with CIO, CDO, and Regional CFOs.
+Scope & Deliverables:
+
+Conducted comprehensive stakeholder interviews
+Identified and validated 45 AI use cases
+Prioritized 16 high-value opportunities
+Projected ROI: $6M–$16M annual cost optimization
+
+Key Outputs:
+
+✅ AI governance frameworks
+✅ AI/ML tools & methodology selection
+✅ Agentic AI introduction
+✅ Project charters & implementation roadmaps
+
+Impact: Secured full CFO and COO executive sponsorship for scaled deployment
+
+🏢 Saint-Gobain North America
+CoE, PMO & Continuous Improvement Leadership
+🌐 Global Delivery & Stakeholder Alignment
+Program Overview:
+
+Led $15M+ outsourced F&A program (180+ resources)
+Championed BPO relationship and continuous improvement
+Directed enterprise portfolio governance and project delivery
+Managed executive steering committees (COO, CFO, VP Shared Services)
+
+Strategic Contributions:
+
+SG AI Committee member
+IFRS AI chatbot pilot case implementation
+Cross-functional vendor collaboration
+
+
+🔄 Transformation & Change Enablement
+$5M+ Transformation Portfolio Leadership
+Spearheaded large-scale automation initiatives as Project Champion and focal Point of Contact.
+Technologies Leveraged:
+
+RPA (Automation Anywhere)
+Power Automate & Power Apps
+AI & Machine Learning
+Six Sigma methodologies
+
+Measurable Results:
+
+📈 30%+ operational efficiency gains
+⏱️ 25% reduction in project cycle time
+💰 Millions in cost savings
+
+Continuous Improvement Office:
+
+Built and launched CI Office using Lean Six Sigma and Balanced Scorecard frameworks
+Developed PMBOK and Agile-aligned templates
+Implemented SOPs and intake models
+Enhanced transparency and accountability across all projects
+
+
+📊 Results & Impact
+AreaAchievementCost OptimizationMillions in savings through governance, AI, and automationStandardizationGovernance and reporting processes adopted across multiple regionsVisibilityIntegrated Power BI dashboards and KPIs for enterprise visibilityKnowledge ManagementAI-enabled SOP/DTP tools for centralized documentation
+
+📋 Program & Portfolio Management (PMO)
+Portfolio Leadership
+Led cross-functional portfolio spanning:
+
+🔄 Transformation initiatives
+🤖 Automation projects
+📊 Data & analytics
+💻 IT infrastructure
+✅ Compliance initiatives
+
+Functional Coverage: PTP, RTR, CA, HR, Shared Services
+Governance & Operations
+
+Managed annual governance routines and reporting streamlining
+Led project prioritization and resource allocation
+Coordinated relocation of outsourced program team to A&F office
+Oversaw annual travel to India for vendor governance
+Drove meeting simplification initiative reducing time on recurring reviews
+
+
+🛡️ Process Improvement, Risk & Governance
+Key Initiatives
+Business Continuity Planning (BCP)
+
+Revalidated and formalized full BCP for Shared Services
+
+Onboarding & Training
+
+Standardized onboarding with HR (Accenture partnership)
+Implemented full documentation governance
+
+Policy & Controls
+
+Recommended reconciliation and journal entry policy initiatives
+Established COE RTR standardized accounting reconciliation processes
+
+Monthly Close Optimization
+
+Reduced overtime and cycle time through redesigned workflows
+Implemented SIF reporting approval workflow and governance
+
+
+💻 Technology Program Ownership & Automation
+Business & Project Owner for:
+
+PSAT platform
+Azure infrastructure
+RPA bot portfolio
+
+Responsibilities:
+
+System updates and maintenance
+License renewals
+Continuous optimization
+Full automation lifecycle management (design → deployment)
+
+
+🤖 Automation & RPA Delivery
+RPA (Automation Anywhere) Implementations
+💳 Accounts Payable (AP)
+
+SAP S/4HANA invoice approval flow
+AP invoice statements automation
+QAD invoice payment workflow
+
+💰 Cash Applications (CA)
+
+Wire/Check/EFT payment archiving RPA
+SAP payment remittance automation
+Treasury daily report archiving
+
+📝 Record-to-Report (RTR)
+
+Cash, bank statement, and GL reconciliations automation
+Weekly payroll JE automation (SAP & QAD)
+Fixed Assets workflow automation
+Reason codes & action plans in BlackLine
+
+🔀 Cross-Functional Automation
+
+Treasury Workstation (TWS) → Snowflake data ingestion
+Balanced scorecard automation
+Daily KPI & metrics automation
+
+
+🧠 AI & Power Platform Solutions
+Power Apps & Workflow Solutions
+
+User Access Provisioning: Power App workflow reducing provisioning to 48 hours
+Recognition Program: Power App for employee engagement
+IPM: Incident Problem Management Error Classification Power App
+
+AI-Enabled Tools
+
+AKMS AI workflow tool (SOP management) onboarding
+AI Bot translation enablement
+Medius non-conforming invoice rejection automation
+
+
+📊 Data, Analytics & Reporting
+Power BI Dashboards
+Developed comprehensive dashboards covering:
+
+Payroll | PTP | CA | RTR | T&E
+Turnover | KPIs | Performance Metrics
+
+Data Infrastructure & Process Mining
+
+Sponsored Celonis process mining training for North America
+Built SAP/QAD Snowflake Data Catalogue
+BlackLine → Snowflake data ingestion
+Footprints (AskAP) dashboard + feedback classification
+Medius data ingestion & reason codes
+ATCAT reporting & vendor cleanup project
+
+
+🔒 IT Infrastructure & Cybersecurity
+Major Infrastructure Projects
+Azure & System Modernization
+
+Azure migration support
+SAP system update implementation
+
+Network Security Enhancement
+
+WiFi provider transition with added firewall layer
+SSTP implementation (replacing VPN)
+
+Fully encrypted SSL/TLS
+Port 443 configuration
+Seamless always-on access
+
+
+
+Global Infrastructure
+
+VDI pilot for India program (with US & France cybersecurity teams)
+SharePoint migration to North America IT environment
+
+
+🌟 Strategic & Special Initiatives
+Leadership Contributions
+
+📋 Annual survey program and reporting
+🤖 AI Committee member
+👥 Women's Committee contributor
+🎁 Grants & Community Outreach leadership
+
+Special Projects
+
+Grant Thornton Alteryx automation project support (Tax division)
+Philanthropy and community outreach governance
+
+
+📞 Contact
+For inquiries about projects, collaboration, or consulting opportunities:
+
+Email: Jenny.Happas@gmail.com
+Phone: 917-993-1824
+Location: Springfield, PA
+LinkedIn: linkedin.com/in/jennyhappas
 
